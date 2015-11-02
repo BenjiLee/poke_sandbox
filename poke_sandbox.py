@@ -2,6 +2,9 @@
 Pokes the sandbox softly for information with your already configured SSH creds.
 
 Prints out the edx-platform branch and commit
+Prints out the cs_comments_service branch and commit
+Prints our sandbox expiration
+
 """
 import argparse
 import paramiko
